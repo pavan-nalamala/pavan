@@ -1,0 +1,2 @@
+https://www.bootstrapcdn.com/  (for viewing javascript elements)
+https://youmightnotneedjquery.com/ (jquery examples and javascript)
